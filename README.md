@@ -1,7 +1,7 @@
 ## Background
 This dataset contains metatdata on the plot, cast, crew, budget, and revenue of several thousand movies (both feature films and television shows) from on IMDB via kaggle.com.
 
-
+## Data
 |Column       |       Description                    |
 |-------------|--------------------------------------|
 |Movie Id| Unique identifier (used to join genre data)|
@@ -46,3 +46,6 @@ This dataset contains metatdata on the plot, cast, crew, budget, and revenue of 
 |Rank| table calculation of Index()|
 |CPI| Consumer Price Index from Bureau of Labor Statistics|
 |Current CPI| Consumer Price Index as of 2017|
+
+## Files
+
