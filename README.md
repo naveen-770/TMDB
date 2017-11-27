@@ -1,6 +1,16 @@
 ## Background
 This dataset contains metatdata on the plot, cast, crew, budget, and revenue of several thousand movies (both feature films and television shows) from on IMDB via kaggle.com.
 
+## Objective
+The goal of this project is to analyze and visualize the data in Tableau to be presented by Team 1 in CS6301 at University of Houston - Downtown Fall 2017. We set out to answer some simple hypothesis.
+
+1. Is there a genre or combination of genres that is particularly successful
+2. Do Facebook/Critical reviews predict success?
+3. Are there specific countries, languages that are particularly successful?
+4. Does budget/investment affect success?
+5. Are these factors changing overtime?
+6. What is the impact of economic events?
+
 ## Data
 |Column       |       Description                    |
 |-------------|--------------------------------------|
