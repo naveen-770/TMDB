@@ -48,4 +48,15 @@ This dataset contains metatdata on the plot, cast, crew, budget, and revenue of 
 |Current CPI| Consumer Price Index as of 2017|
 
 ## Files
+| File | Description |
+|------|-------------|
+|README.md | This read me file |
+|movie_metadata.csv	| Original Data |
+|one_hot_genres_keywords.ipynb	| Python Script for cleaning data|
+|one_hot_movie_metadata.csv	| result of python script |
+|movie_keywords.xlsx | Keyword Data one-hot encoded | 
+|movie_genres.xlsx	| Genre Data one-hot encoded |
+|genre_pairs.xlsx	| Genres assigned by most popular pair for each movie |
+|CPI.csv	| Consumer Price Index Data |
+|movies.twbx	| Final Tableau Packaged File|
 
