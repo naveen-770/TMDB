@@ -1,4 +1,4 @@
-Background
+## Background
 This dataset contains metatdata on the plot, cast, crew, budget, and revenue of several thousand movies (both feature films and television shows) from on IMDB via kaggle.com.
 
 
@@ -38,8 +38,8 @@ This dataset contains metatdata on the plot, cast, crew, budget, and revenue of 
 |Profit| Adjusted Gross - Adjusted Budget|
 |NegProfit| -Profit (used for sizing gantt bars downward)|
 |Profit (group)| "Made money" or "Lost money"|
-|ROI| |
-|Profit/Budget||
+|ROI| Return on Investment |
+|Profit/Budget| Table calculation for ratio of Profit to Budget |
 |Adjusted Budget (bin)| bins for histogram|
 |Profit (bin)| bins for histogram|
 |AVGProfit| table calculation of Avg(profit)|
